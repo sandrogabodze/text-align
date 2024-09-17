@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    height: 300px;
+    border: 1px solid ; color: grey;
+    text-align: justify;
+    margin-left: 37px;
+    margin-top: 77px;
+
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
